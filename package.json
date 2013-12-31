@@ -1,0 +1,23 @@
+{
+  "name": "fatcreator",
+  "version": "0.0.0",
+  "description": "Heroku example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatcreator/heroku-example"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "fatcreator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fatcreator/heroku-example/issues"
+  },
+  "homepage": "https://github.com/fatcreator/heroku-example"
+}
